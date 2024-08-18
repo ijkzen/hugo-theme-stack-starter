@@ -9,12 +9,8 @@ since = 2020
 customText = ""
 
 [dateFormat]
-published = "2016-01-02"
-lastUpdated = "2016-01-02 15:04:05"
-
-[sidebar]
-emoji = "🍥"
-subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+published = "27 Feb 2023"
+lastUpdated = "2023-10-15T13:18:50"
 
 [sidebar.avatar]
 enabled = true
